@@ -11,13 +11,13 @@ function toggleMode() {
 
   const img = document.querySelector("#profile img")
   if (html.classList.contains("light")) {
-    img.setAttribute("assets/assets/perfilnormal.png")
+    img.setAttribute("src", "assets/assets/perfilblack.png")
     img.setAttribute(
       "Alt",
       "Uma foto de Janderson, no periodo da noite, usando blusa de frio."
     )
   } else {
-    img.setAttribute("assets/assets/perfilblack.png")
+    img.setAttribute("src", "assets/assets/perfilnormal.png")
     img.setAttribute(
       "Alt",
       "Uma foto com efeito preto e branco de Janderson, no periodo da noite, usando blusa de frio."
