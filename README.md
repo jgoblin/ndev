@@ -18,7 +18,7 @@ Link do projeto pronto: https://jgoblin.github.io/ndev/
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src="https://i.ibb.co/t2y1mwd/preview.jpg" width="100%">
+  <img alt="Projeto DevLinks" src="https://i.ibb.co/6sZRwRP/Be-Funky-collage.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
